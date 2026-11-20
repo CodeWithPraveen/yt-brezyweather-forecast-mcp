@@ -1,6 +1,6 @@
 # BrezyWeather forecast: read-only Azure access for Claude Code
 
-Claude Code reaches Azure through the Azure MCP Server, signed in as a service principal that holds only Reader on one resource group. Companion repo for the video *Azure MCP Server in Claude Code: Make It Read-Only with RBAC*.
+Claude Code reaches Azure through the Azure MCP Server, signed in as a service principal that holds only Reader on one resource group. Companion repo for the video *Give Your AI Agent Read-Only Azure Access with MCP*.
 
 ## Requirements
 
