@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "defaultMode": "default",
+    "allow": [
+      "mcp__azure__group_list",
+      "mcp__azure__group_resource_list"
+    ],
+    "deny": [
+      "Bash(az *)",
+      "Read(~/.azure/**)",
+      "Read(~/.brezyweather/**)"
+    ]
+  },
+  "enabledPlugins": {
+    "azure@claude-plugins-official": false
+  }
+}
